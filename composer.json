@@ -1,0 +1,19 @@
+{
+    "name": "maxnnn1900/proxy-sms-api",
+    "autoload": {
+        "psr-4": {
+            "Maxnnn1900\\ProxySMSApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxnnn1900",
+            "email": "maxnnn1900@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "php-http/guzzle7-adapter": "^1.1",
+        "nyholm/psr7": "^1.8"
+    }
+}
